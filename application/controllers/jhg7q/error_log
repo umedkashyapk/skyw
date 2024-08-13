@@ -1,0 +1,2 @@
+[15-Apr-2024 10:46:15 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST) in /tmp/temp-lyxpzvndv-Reward.php on line 96
+[15-Apr-2024 10:47:29 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /tmp/temp-ptvtik-Reward.php on line 107
